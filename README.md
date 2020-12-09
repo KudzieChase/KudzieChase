@@ -4,7 +4,7 @@
 
 📖 I am learning SwiftUI and Flutter in my spare time. And I enjoy scripting in python.
 
-✍🏾 I am would love to learn about Animation, and I am looking for help in that particular field.
+✍🏾 I would love to learn about Animation and I am looking for help in that particular field.
 
 🐦 If you wanna start a conversation. Hit me up on [Twitter](https://twitter.com/KudzieChase)
 
@@ -14,4 +14,4 @@
 
 ⌘ If you're looking for something to read. You can check out my articles on [Medium](https://medium.com/@KudzieChase). I will make time to move my content to a personal blog :D
  
-⚡️ Fun fact: I suck at naming things. Hence why it took me 2 years to come up with a name for my music player side project lol. But the periodic table of elements has always been a huge help.
+⚡️ Fun fact: I suck at naming things. Hence the reason why it took me 2 years to come up with a name for my music player side project lol. But the periodic table of elements has always been a huge help.

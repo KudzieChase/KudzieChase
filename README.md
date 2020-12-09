@@ -8,7 +8,7 @@
 
 🐦 If you wanna start a conversation. Hit me up on [Twitter](https://twitter.com/KudzieChase)
 
-📥 You can also email me at kudzai.chasinda@gmail.com.
+📥 You can also email me at kudzai.chasinda@gmail.com
 
 😄 Pronouns: He/Him
 

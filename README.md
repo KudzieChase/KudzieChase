@@ -12,6 +12,6 @@
 
 😄 Pronouns: He/Him
 
-⌘ If you're looking for something to read. You can check out my articles on [Medium](https://medium.com/@KudzieChase). I will make time to move my content to a personal blog :D
+⌘ If you're looking for something to read. You can check out my articles on [Medium](https://kudzie.medium.com/). I will make time to move my content to a personal blog :D
  
 ⚡️ Fun fact: I suck at naming things. Hence the reason why it took me 2 years to come up with a name for my music player side project lol. But the periodic table of elements has always been a huge help.

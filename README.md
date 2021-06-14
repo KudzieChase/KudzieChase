@@ -1,6 +1,6 @@
 ### Kudzie Here!👋
 
-📝 I'm largely a self taught Android Developer currently working on [Gallium Music Player](https://github.com/KudzieChase/ChaseMusicX). Codenamed ChaseMusicX 
+📝 I'm largely a self taught Android Developer currently working on [Gallium Music Player](https://github.com/KudzieChase/GalliumMusic).
 
 📖 I am learning SwiftUI and Flutter in my spare time. And I enjoy scripting in python.
 

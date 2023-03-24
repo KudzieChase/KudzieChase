@@ -1,6 +1,6 @@
 ### Kudzie Here!👋
 
-📝 I'm an Android Developer working at [Trivago](https://company.trivago.com/)!
+📝 I'm an Android Engineer working at Spotify.
 
 🎹 I enjoy making apps and enjoy writing about making apps haha :D 
 

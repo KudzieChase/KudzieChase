@@ -2,7 +2,7 @@
 
 📝 I'm an Android Engineer working at Spotify.
 
-🎹 I enjoy making apps and enjoy writing about making apps haha :D 
+🎹 I enjoy making apps and enjoy writing about making apps :D 
 
 😄 Pronouns: He/Him
 
